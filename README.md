@@ -5,6 +5,8 @@ This is a RESTful API built with **Node.js**, **Express**, and **MongoDB** for m
 >  **Live API**:  
 >Render Link - https://cse341-contacts-epw1.onrender.com/contacts  
 
+Swagger UI - https://cse341-contacts-epw1.onrender.com/api-docs
+
 >>> 
 
 By ID - https://cse341-contacts-epw1.onrender.com/contacts/686fd3502b52c2e95ba380fc
