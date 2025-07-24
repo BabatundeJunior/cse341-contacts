@@ -3,7 +3,7 @@ const app = express();
 const dotenv = require('dotenv');
 dotenv.config();
 
-const db = require('./db/connect'); // make sure this comes before routes
+const db = require('./db/connect'); //  this comes before routes
 const port = process.env.PORT || 3000;
 
 app.use(express.json());
